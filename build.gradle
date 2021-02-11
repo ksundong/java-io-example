@@ -4,6 +4,7 @@ plugins {
 
 group 'dev.idion'
 version '1.0.0'
+sourceCompatibility = '11'
 
 repositories {
     mavenCentral()
